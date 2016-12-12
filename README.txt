@@ -6,7 +6,7 @@ This script is to be used in a first person game and it allows a player to pick 
 This script is designed to be mostly 'plug-and-play' with the exception of adding in ones own input be it through an InputController or the update function.
 
 If using the controller version, install the XInputDotNet plugin from https://github.com/speps/XInputDotNet for vibration support.
-	THIS IS NOT NEEDED AND WILL BREAK THINGS IF NOT USING A CONTROLLER, USE NORMAL VERSION IF NO CONTROLLER IS BEING USED
+	IF NOT USING A CONTROLLER, THIS IS NOT NEEDED AND WILL BREAK THINGS, USE NORMAL VERSION IF NO CONTROLLER IS BEING USED
 
 All objects that can be picked up must have the 'PhysicsObject' tag
 

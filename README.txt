@@ -25,7 +25,8 @@ I recommend having two buttons to activate these functions like so:
 
 	- 2ExambleButton2 is pressed = Fire() is called
 
-
+I also have a blog post detailing these instructions with pictures, feel free to check it out!
+https://sirrednut.wordpress.com/2016/12/13/i-made-a-thing-do-you-want-my-thing/
 
 Current version tested in Unity v5.4.1f1
 If you encounter any problems feel free to email be on the options provided below, enjoy the script
